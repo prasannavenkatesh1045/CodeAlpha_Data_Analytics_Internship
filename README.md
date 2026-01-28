@@ -10,3 +10,8 @@ Exploratory Data Analysis (EDA) performed on historical stock price data using P
 ### Task 3 – IPL Player Performance Analysis
 Analysis of IPL player performance using real match data, including data visualization and performance insights.
 
+## Deployment
+
+The IPL Player Performance Analysis dashboard has been deployed as a web application.
+
+Live link: https://run-radar-live.lovable.app
